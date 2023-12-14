@@ -1,6 +1,5 @@
 <html>
     <head>
-        <title>BitMarket</title>
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
